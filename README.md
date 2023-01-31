@@ -17,13 +17,11 @@ conda install scipy
 conda install scikit-learn
 ```
 
-2. Download and extract the data
+2. Download the data from http://www.timeseriesclassification.com/Downloads/Archives/Univariate2018_arff.zip
 
-(a) Download the data from http://www.timeseriesclassification.com/Downloads/Archives/Univariate2018_arff.zip
+3. Extract the zip file into the folder called "data" under the project's root folder 
 
-(b) Extract the zip file into the folder called "data" under the project's root folder 
-
-3. Start jupyter notebook
+4. Start jupyter notebook
 
 In Anaconda Prompt (windows) or linux shell:
 
@@ -31,4 +29,4 @@ In Anaconda Prompt (windows) or linux shell:
 jupyter notebook
 ```
 
-4. Open the npynb file in the Jupyter notebook
+5. Open the npynb file in the Jupyter notebook
