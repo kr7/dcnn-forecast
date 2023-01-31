@@ -5,7 +5,7 @@ Time series forecasting with distortion-aware convolutional neural networks
 
 1. Setup the conda environment
 
-  In Anaconda Prompt (windows) or linux shell:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Anaconda Prompt (windows) or linux shell:
 
 ```
 conda create --name forecast
@@ -23,7 +23,7 @@ conda install scikit-learn
 
 4. Start jupyter notebook
 
-  In Anaconda Prompt (windows) or linux shell:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In Anaconda Prompt (windows) or linux shell:
 
 ```
 jupyter notebook
